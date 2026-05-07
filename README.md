@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:14001F,35:3A0CA3,65:00F5FF,100:0D1117&text=SUHAILI%20FARUQ&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Mobile%20Engineer%20•%20Flutter%20•%20React%20Native%20•%20Android&descAlignY=58&descSize=18&descColor=FF4ECD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:14001F,35:3A0CA3,65:00F5FF,100:0D1117&text=SUHAILI%20FARUQ&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Mobile%20and%20Web%20Engineer%20•%20Flutter%20•%20React%20Native%20•%20Android•%20React&descAlignY=58&descSize=18&descColor=FF4ECD"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Flutter+Developer+with+production+mobile+experience.;React+Native+Engineer+focused+on+scalable+architecture.;Learning+backend+systems+with+Go+Fiber+with+Clean+Architecture.;Tech+and+Games+Enthusiast;"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Flutter+Developer+with+production+mobile+experience.;React+Native+Engineer+focused+on+scalable+architecture.;Learning+backend+systems+with+Go+Fiber+with+Clean+Architecture.;Tech+and+Games+Enthusiast;"/>
 
 <br/>
 
@@ -24,8 +24,13 @@
 class Developer {
   final String name = "Suhaili Faruq";
 
-  final String role =
+  final String mainRole =
       "Mobile Engineer";
+
+  final List<String> anotherRole = [
+  "Web Developer",
+  "Backend Developer",
+  ]
 
   final List<String> mainStack = [
     "Flutter",
@@ -41,7 +46,7 @@ class Developer {
     "Clean Architecture",
   ];
 
-  final int experience = 3;
+  final double experience = 3.5;
 
   final String location =
       "Jakarta, Indonesia 🇮🇩";
