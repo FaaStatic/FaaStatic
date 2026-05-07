@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:6B3AFF&height=200&section=header&text=Suhaili%20Faruq&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%C2%B7%20Fullstack%20in%20Progress&descSize=16&descAlignY=58&descColor=ffffffaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:6B3AFF&height=200&section=header&text=Suhaili%20Faruq&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%C2%B7%20Fullstack%20&descSize=16&descAlignY=58&descColor=ffffffaa" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://github.com/FaaStatic">
@@ -13,7 +13,7 @@
 <!-- BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=FaaStatic&color=00E5FF&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/FaaStatic?style=flat-square&color=6B3AFF&labelColor=0D1117&label=Followers)](https://github.com/FaaStatic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhaili-faruq-8475a0189/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00E5FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://portfolioweb-55f91.web.app/)
 
 </div>
