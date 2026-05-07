@@ -133,21 +133,13 @@ class Developer {
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
-
-<div align="center">
 <img height="160" src="./profile/stats.svg" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="160" src="./profile/top-langs.svg" alt="Top Languages"/>
 </div>
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=FaaStatic&theme=transparent&hide_border=true&stroke=21262d&ring=00E5FF&fire=6B3AFF&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00E5FF&sideLabels=8b949e&dates=8b949e&background=0D1117" alt="GitHub Streak"/>
-</div>
-</div>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=FaaStatic&theme=transparent&hide_border=true&ring=00F5FF&fire=FF4ECD&currStreakLabel=00F5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA"/>
-
 </div>
 
 ---
