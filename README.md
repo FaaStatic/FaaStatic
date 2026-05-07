@@ -31,7 +31,6 @@ class Developer {
 
   final List<String> currentlyBuilding = [
     "Shop POS BE — Go Fiber v3 + Clean Architecture",
-    "Exploring .NET 10 Clean Architecture",
   ];
 
   final Map<String, bool> openTo = {
@@ -52,22 +51,34 @@ class Developer {
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Koltin Multi Platform](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![React Vite](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://vite.dev/)
 
 **Backend**
 
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
-[![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Go Fiber](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
+[![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![Kotlin KTOR](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://ktor.io/)
+
+**Languange**
+
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)](https://go.dev/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+
 
 **Frontend · Tools**
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+
+
+**Database · Tools**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 
 ---
 
@@ -92,8 +103,24 @@ class Developer {
 
 <div align="center">
 
-[![Shop POS BE](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=shop-project-be&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/shop-project-be)
-[![Flutter Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=portfolioweb&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/portfolioweb)
+[![Shop POS BE](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=Shop_project_be&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/Shop_project_be)
+[![TODO apps with KMP](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=kmp_todo_app&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/kmp_todo_app](https://github.com/FaaStatic/kmp_todo_app))
+[![Project COIP](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=project_coip&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/project_coip](https://github.com/FaaStatic/project_coip))
+[![ForYou by SinarmasLand](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=foryou-sinarmasland-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/foryou-sinarmasland-source](https://github.com/FaaStatic/foryou-sinarmasland-source))
+[![MyKekancan](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=myKekancan-app-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/myKekancan-app-source](https://github.com/FaaStatic/myKekancan-app-source))
+[![Hebat!](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=hebat-apps-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/hebat-apps-source](https://github.com/FaaStatic/hebat-apps-source))
+[![Semargress 2022!](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=semargress2022-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/semargress2022-source](https://github.com/FaaStatic/semargress2022-source))
+[![Money Tracker](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=moneyexpensetracker&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/moneyexpensetracker](https://github.com/FaaStatic/moneyexpensetracker))
+[![LMS Inkaedu](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=web-lms-inkaedu-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/web-lms-inkaedu-source](https://github.com/FaaStatic/web-lms-inkaedu-source))
+[![NMS Mobile](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=nmsmobile-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/nmsmobile-source](https://github.com/FaaStatic/nmsmobile-source))
+[![Local CDN Go](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=local_cdn_go&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/local_cdn_go](https://github.com/FaaStatic/local_cdn_go))
+[![Naratik Mobile](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=naratik-mobile-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/naratik-mobile-source](https://github.com/FaaStatic/naratik-mobile-source))
+[![Survey Apps](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=project-survey-app-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/project-survey-app-source](https://github.com/FaaStatic/project-survey-app-source))
+[![Portfolio Web apps](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=portfolioapps&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/portfolioapps](https://github.com/FaaStatic/portfolioapps))
+[![Github Apps Mobile](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=GithubApp&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/GithubApp](https://github.com/FaaStatic/GithubApp))
+[![Cashier App for Bookstore](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=project-cashier-book-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/project-cashier-book-source](https://github.com/FaaStatic/project-cashier-book-source))
+[![Village Admin Project](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=proyek-sistem-desa-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)]([https://github.com/FaaStatic/proyek-sistem-desa-source](https://github.com/FaaStatic/proyek-sistem-desa-source))
+
 
 </div>
 
@@ -103,9 +130,9 @@ class Developer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhaili-faruq-8475a0189)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://portfolioweb-55f91.web.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaili.faruq01@gmail.com)
 
 </div>
 
