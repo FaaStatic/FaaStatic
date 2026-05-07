@@ -4,14 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:14001F,35:3A0CA3,65:00F5FF,100:0D1117&text=SUHAILI%20FARUQ&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Mobile%20and%20Web%20Engineer%20•%20Flutter%20•%20React%20Native%20•%20Android•%20React&descAlignY=58&descSize=18&descColor=FF4ECD"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&center=true&vCenter=true&random=true&width=1000&height=100&lines=Flutter+Developer+with+Production+Experience.;React-Native+Developer+focused+on+scalable+architecture.;Learning+backend+systems++with+Clean+Architecture.;Tech+Enthusiast+and+Casual+Gamers.)](https://git.io/typing-svg)
-
 <br/>
-<br/>
-
 ![](https://komarev.com/ghpvc/?username=FaaStatic&style=for-the-badge&color=00F5FF)
-
 [![Followers](https://img.shields.io/github/followers/FaaStatic?style=for-the-badge&color=FF4ECD&labelColor=0D1117)](https://github.com/FaaStatic)
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/suhaili-faruq-8475a0189/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF4ECD?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://portfolioweb-55f91.web.app/)
 
