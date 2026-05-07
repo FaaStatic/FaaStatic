@@ -206,9 +206,7 @@ Backend Journey:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5FF,50:3A0CA3,100:14001F"/>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FaaStatic/FaaStatic/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+# 🐍 CONTRIBUTION SNAKE 
+<div align="center"> <img src="https://raw.githubusercontent.com/FaaStatic/FaaStatic/output/github-contribution-grid-snake-dark.svg"/> 
+</div>
 
