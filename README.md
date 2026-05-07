@@ -127,10 +127,14 @@ class Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaaStatic&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=FF4ECD&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaStatic&layout=compact&theme=transparent&hide_border=true&title_color=00F5FF&text_color=FFFFFF"/>
-
+<div align="center">
+<img height="160" src="./profile/stats.svg" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="160" src="./profile/top-langs.svg" alt="Top Languages"/>
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=FaaStatic&theme=transparent&hide_border=true&stroke=21262d&ring=00E5FF&fire=6B3AFF&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00E5FF&sideLabels=8b949e&dates=8b949e&background=0D1117" alt="GitHub Streak"/>
+</div>
 </div>
 
 <div align="center">
