@@ -143,46 +143,45 @@ class Developer {
 
 # 🚀 FEATURED PROJECTS
 
-<div align="center">
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td align="center"> 
+        <a href="https://github.com/FaaStatic/foryou-sinarmasland-source"> <img src="https://img.shields.io/badge/ForYou_SinarmasLand-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> </a> </td> <td align="center"> <a href="https://github.com/FaaStatic/myKekancan-app-source"> <img src="https://img.shields.io/badge/MyKekancan-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/FaaStatic/project-survey-app-source"> <img src="https://img.shields.io/badge/Survey_Apps-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> </a> </td> <td align="center"> <a href="https://github.com/FaaStatic/moneyexpensetracker"> <img src="https://img.shields.io/badge/Money_Tracker-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/FaaStatic/nmsmobile-source"> <img src="https://img.shields.io/badge/NMS_Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> </a> </td> <td align="center"> <a href="https://github.com/FaaStatic/portfolioapps"> <img src="https://img.shields.io/badge/Portfolio_Web-Flutter_Web-00F5FF?style=for-the-badge&logo=flutter&logoColor=black"/> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/FaaStatic/project_coip"> <img src="https://img.shields.io/badge/Project_COIP-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> </a> </td> <td align="center"> <a href="https://github.com/FaaStatic/hebat-apps-source"> <img src="https://img.shields.io/badge/Hebat!-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/FaaStatic/semargress2022-source"> <img src="https://img.shields.io/badge/Semargress_2022-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> </a> </td> <td align="center"> <a href="https://github.com/FaaStatic/web-lms-inkaedu-source"> <img src="https://img.shields.io/badge/LMS_Inkaedu-React_Web-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/FaaStatic/naratik-mobile-source"> <img src="https://img.shields.io/badge/Naratik_Mobile-Android_Kotlin-7F52FF?style=for-the-badge&logo=android&logoColor=white"/> </a> </td> <td align="center"> <a href="https://github.com/FaaStatic/GithubApp"> <img src="https://img.shields.io/badge/Github_Apps-Mobile_Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/FaaStatic/project-cashier-book-source"> <img src="https://img.shields.io/badge/Cashier_Bookstore-Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> </a> </td> <td align="center"> <a href="https://github.com/FaaStatic/proyek-sistem-desa-source"> <img src="https://img.shields.io/badge/Village_Admin_Project-CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/FaaStatic/local_cdn_go"> <img src="https://img.shields.io/badge/Local_CDN_Go-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </a> </td> <td align="center"> <a href="https://github.com/FaaStatic/Shop_project_be"> <img src="https://img.shields.io/badge/Shop_POS_BE-Go_Fiber_v3-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </a> </td> </tr> <tr> <td align="center" colspan="2"> <a href="https://github.com/FaaStatic/kmp_todo_app"> <img src="https://img.shields.io/badge/KMP_TODO_App-Kotlin_Multiplatform_%2B_KTOR-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> </a> </td> </tr> </table> </div> 
 
-| Project                                                                        | Stack                 |
-| ------------------------------------------------------------------------------ | --------------------- |
-| [ForYou SinarmasLand](https://github.com/FaaStatic/foryou-sinarmasland-source) | Flutter               |
-| [MyKekancan](https://github.com/FaaStatic/myKekancan-app-source)               | Flutter               |
-| [Survey Apps](https://github.com/FaaStatic/project-survey-app-source)          | Flutter               |
-| [Money Tracker](https://github.com/FaaStatic/moneyexpensetracker)              | Flutter               |
-| [NMS Mobile](https://github.com/FaaStatic/nmsmobile-source)                    | Flutter               |
-| [Project COIP](https://github.com/FaaStatic/project_coip)                      | React Native          |
-| [Hebat Apps](https://github.com/FaaStatic/hebat-apps-source)                   | React Native          |
-| [Semargress 2022](https://github.com/FaaStatic/semargress2022-source)          | React Native          |
-| [Naratik Mobile](https://github.com/FaaStatic/naratik-mobile-source)           | Native Android Kotlin |
-| [Shop POS Backend](https://github.com/FaaStatic/Shop_project_be)               | Go Fiber              |
+--- 
 
-</div>
+# ⚙️ BACKEND JOURNEY 
 
----
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=go,kotlin,postgres,redis,firebase"/> <br/> <img src="https://img.shields.io/badge/Go_Fiber_v3-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/KTOR_Backend-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Clean_Architecture-FF4ECD?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backend-Learning_Path-00F5FF?style=for-the-badge&logo=go&logoColor=black"/> 
+</div> 
 
-# 🧠 CURRENT FOCUS
+--- 
 
-```yaml
-Mobile:
-  - Flutter
+# 🧠 CURRENT FOCUS 
+
+```yaml 
+Mobile: 
+  - Flutter 
+  - Flutter Web
   - React Native
-  - Native Android Kotlin
-
-Frontend Architecture:
+  - Native Android Kotlin Frontend
+Architecture:
   - Re.Pack + Rspack
   - TanStack Query
   - Zustand
+  - Bloc
+  - Riverpod
+  - Koin
   - Clean Architecture
-
 Backend Journey:
   - Go Fiber
+  - KTOR
   - PostgreSQL
   - Redis
   - REST API
 ```
-
 ---
 
 # 📡 CONNECT
