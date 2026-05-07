@@ -118,7 +118,7 @@ class Developer {
   <tr>
     <td align="center">
       <a href="https://github.com/FaaStatic/project_coip">
-        <img src="https://img.shields.io/badge/Project_COIP-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Project_COIP-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       </a>
     </td>
     <td align="center">
@@ -135,14 +135,14 @@ class Developer {
     </td>
     <td align="center">
       <a href="https://github.com/FaaStatic/hebat-apps-source">
-        <img src="https://img.shields.io/badge/Hebat!-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hebat!-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/FaaStatic/semargress2022-source">
-        <img src="https://img.shields.io/badge/Semargress_2022-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Semargress_2022-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       </a>
     </td>
     <td align="center">
@@ -171,7 +171,7 @@ class Developer {
     </td>
     <td align="center">
       <a href="https://github.com/FaaStatic/naratik-mobile-source">
-        <img src="https://img.shields.io/badge/Naratik_Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Naratik_Mobile-Android%20%7C%20Kotlin-7F52FF?style=for-the-badge&logo=android&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -195,14 +195,14 @@ class Developer {
     </td>
     <td align="center">
       <a href="https://github.com/FaaStatic/project-cashier-book-source">
-        <img src="https://img.shields.io/badge/Cashier_Bookstore-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cashier_Bookstore-Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/FaaStatic/proyek-sistem-desa-source">
-        <img src="https://img.shields.io/badge/Village_Admin_Project-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Village_Admin_Project-CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
       </a>
     </td>
   </tr>
