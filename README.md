@@ -84,9 +84,9 @@ class Developer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=FaaStatic&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=6B3AFF&text_color=e6edf3&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaStatic&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&langs_count=6" alt="Top Languages"/>
+<img height="160" src="./profile/stats.svg" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="160" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
@@ -102,23 +102,111 @@ class Developer {
 
 <div align="center">
 
-[![Shop POS BE](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=Shop_project_be&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/Shop_project_be)
-[![TODO apps with KMP](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=kmp_todo_app&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/kmp_todo_app)
-[![Project COIP](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=project_coip&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/project_coip)
-[![ForYou by SinarmasLand](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=foryou-sinarmasland-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/foryou-sinarmasland-source)
-[![MyKekancan](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=myKekancan-app-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/myKekancan-app-source)
-[![Hebat!](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=hebat-apps-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/hebat-apps-source)
-[![Semargress 2022](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=semargress2022-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/semargress2022-source)
-[![Money Tracker](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=moneyexpensetracker&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/moneyexpensetracker)
-[![LMS Inkaedu](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=web-lms-inkaedu-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/web-lms-inkaedu-source)
-[![NMS Mobile](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=nmsmobile-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/nmsmobile-source)
-[![Local CDN Go](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=local_cdn_go&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/local_cdn_go)
-[![Naratik Mobile](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=naratik-mobile-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/naratik-mobile-source)
-[![Survey Apps](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=project-survey-app-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/project-survey-app-source)
-[![Portfolio Web Apps](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=portfolioapps&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/portfolioapps)
-[![Github Apps Mobile](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=GithubApp&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/GithubApp)
-[![Cashier App for Bookstore](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=project-cashier-book-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/project-cashier-book-source)
-[![Village Admin Project](https://github-readme-stats.vercel.app/api/pin/?username=FaaStatic&repo=proyek-sistem-desa-source&theme=transparent&hide_border=true&title_color=00E5FF&text_color=e6edf3&bg_color=0D1117&icon_color=6B3AFF)](https://github.com/FaaStatic/proyek-sistem-desa-source)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/Shop_project_be">
+        <img src="https://img.shields.io/badge/Shop_POS_BE-Go%20Fiber%20v3%20%7C%20Clean%20Arch-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/kmp_todo_app">
+        <img src="https://img.shields.io/badge/KMP_TODO_App-Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/project_coip">
+        <img src="https://img.shields.io/badge/Project_COIP-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/foryou-sinarmasland-source">
+        <img src="https://img.shields.io/badge/ForYou_SinarmasLand-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/myKekancan-app-source">
+        <img src="https://img.shields.io/badge/MyKekancan-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/hebat-apps-source">
+        <img src="https://img.shields.io/badge/Hebat!-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/semargress2022-source">
+        <img src="https://img.shields.io/badge/Semargress_2022-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/moneyexpensetracker">
+        <img src="https://img.shields.io/badge/Money_Tracker-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/web-lms-inkaedu-source">
+        <img src="https://img.shields.io/badge/LMS_Inkaedu-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/nmsmobile-source">
+        <img src="https://img.shields.io/badge/NMS_Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/local_cdn_go">
+        <img src="https://img.shields.io/badge/Local_CDN_Go-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/naratik-mobile-source">
+        <img src="https://img.shields.io/badge/Naratik_Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/project-survey-app-source">
+        <img src="https://img.shields.io/badge/Survey_Apps-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/portfolioapps">
+        <img src="https://img.shields.io/badge/Portfolio_Web-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/GithubApp">
+        <img src="https://img.shields.io/badge/Github_Apps_Mobile-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FaaStatic/project-cashier-book-source">
+        <img src="https://img.shields.io/badge/Cashier_Bookstore-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/FaaStatic/proyek-sistem-desa-source">
+        <img src="https://img.shields.io/badge/Village_Admin_Project-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
