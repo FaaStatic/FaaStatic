@@ -112,7 +112,7 @@ class Developer {
 <br/>
 
 <img src="https://img.shields.io/badge/Go_Fiber_v3-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-00ADD8?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clean_Architecture-FF003C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-Learning_Path-FFE81A?style=for-the-badge&logo=go&logoColor=black"/>
 
