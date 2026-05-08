@@ -61,7 +61,7 @@ class Developer {
 # ⚡ MOBILE.EXE
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,dart,ts"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,ts"/>
 <br/>
 <img src="https://img.shields.io/badge/Flutter-Main%20Stack-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cross_Platform-Mobile_Apps-FFE81A?style=for-the-badge&logo=dart&logoColor=black"/>
@@ -74,8 +74,8 @@ class Developer {
 <img src="https://img.shields.io/badge/Zustand-FFE81A?style=for-the-badge&labelColor=0D0D0D&logoColor=black"/>
 <img src="https://img.shields.io/badge/Re.Pack-FF003C?style=for-the-badge&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Rspack-00FFFF?style=for-the-badge&logo=rspack&logoColor=black"/>
-<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Redux_Toolkit-6441AA?logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=nativewind&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-6441AA?style=for-the-badge&logo=redux&logoColor=white"/>
 <br/>
 <br/>
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java"/>
@@ -98,7 +98,7 @@ class Developer {
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zustand-FFE81A?style=for-the-badge&labelColor=0D0D0D&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-00FFFF?style=for-the-badge&logo=tailwindcss&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redux_Toolkit-6441AA?style=for-the-badge&logo=redux_toolkit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-6441AA?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
 
 ---
