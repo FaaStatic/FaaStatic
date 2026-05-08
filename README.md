@@ -23,7 +23,7 @@ class Developer {
   final String mainRole =
       "Mobile Engineer";
 
-  final List<String> anotherRole = [
+  final List<String> subRole = [
   "Web Developer",
   "Backend Developer",
   ]
@@ -36,10 +36,9 @@ class Developer {
 
   final List<String> backendStack = [
     "Go Fiber",
-    "Kotlin KTOR",
+    "Kotlin Ktor",
     "PostgreSQL",
-    "Redis",
-    "Clean Architecture",
+    "Redis"
   ];
 
   final double experience = 3.5;
@@ -163,19 +162,19 @@ class Developer {
 Mobile: 
   - Flutter 
   - Flutter Web
-  - React Native
+  - React Native/Expo
   - Native Android Kotlin Frontend
 Architecture:
-  - Re.Pack + Rspack
-  - TanStack Query
-  - Zustand
-  - Bloc
-  - Riverpod
-  - Koin
   - Clean Architecture
+  - MVVM
+Application Architecture & State Management:
+  - TanStack Query + Zustand
+  - Bloc / Riverpod
+  - Koin / Dagger Hilt
+  - Re.Pack + Rspack
 Backend Journey:
   - Go Fiber
-  - KTOR
+  - Kotlin Ktor
   - PostgreSQL
   - Redis
   - REST API
