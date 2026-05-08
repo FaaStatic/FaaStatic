@@ -61,7 +61,7 @@ class Developer {
 # ⚡ MOBILE.EXE
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,ts"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
 <br/>
 <img src="https://img.shields.io/badge/Flutter-Main%20Stack-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cross_Platform-Mobile_Apps-FFE81A?style=for-the-badge&logo=dart&logoColor=black"/>
@@ -112,7 +112,7 @@ class Developer {
 <br/>
 
 <img src="https://img.shields.io/badge/Go_Fiber_v3-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-00ADD8?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clean_Architecture-FF003C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-Learning_Path-FFE81A?style=for-the-badge&logo=go&logoColor=black"/>
 
