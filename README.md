@@ -92,7 +92,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,bun,ts,js,vite"/>
+<img src="https://skillicons.dev/icons?i=react,bun,node,ts,js,vite"/>
 
 <br/>
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
