@@ -62,51 +62,47 @@ class Developer {
 # ⚡ MOBILE DEVELOPMENT
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart"/>
-
+<img src="https://skillicons.dev/icons?i=flutter,react,dart,ts"/>
 <br/>
-
 <img src="https://img.shields.io/badge/Flutter-Main%20Stack-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cross_Platform-Mobile_Apps-00F5FF?style=for-the-badge&logo=dart&logoColor=black"/>
 <img src="https://img.shields.io/badge/Production_Experience-FF4ECD?style=for-the-badge"/>
-
+<br/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js"/>
+<br/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-151515?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Re.Pack-6B3AFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rspack-000000?style=for-the-badge&logo=rspack&logoColor=white"/>
+<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-6441AA?logo=redux&logoColor=white"/>
+<br/>
+<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java"/>
+<br/>
+<img src="https://img.shields.io/badge/Kotlin-Native_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-Application_Development-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-1.5.12-4285F4?logo=jetpackcompose?style=for-the-badge&logo=android&logoColor=black"/>
+<img src="  https://img.shields.io/badge/Kotlin_Multiplatform-blue?style=for-the-badge&label=Kotlin?style=for-the-badge&logo=android&logoColor=black"/>
 </div>
-
 ---
 
-# ⚛️ REACT NATIVE & FRONTEND
+# ⚛️ WEB FRONTEND
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,vite"/>
 
 <br/>
-
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zustand-151515?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Re.Pack-6B3AFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Rspack-000000?style=for-the-badge&logo=rspack&logoColor=white"/>
-<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-6441AA?logo=redux&logoColor=white"/>
 </div>
 
 ---
 
-# 🤖 NATIVE ANDROID
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Kotlin-Native_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-Application_Development-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
-
-</div>
-
----
 
 # ⚙️ BACKEND JOURNEY
 
