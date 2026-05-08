@@ -183,7 +183,7 @@ class Developer {
         <a href="https://github.com/FaaStatic/naratik-mobile-source"><img src="https://img.shields.io/badge/Naratik_Mobile-Android_Kotlin-7F52FF?style=for-the-badge&logo=android&logoColor=white"/></a>
       </td>
       <td align="center">
-        <a href="https://github.com/FaaStatic/GithubApp"><img src="https://img.shields.io/badge/Github_Apps-Mobile_Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+        <a href="https://github.com/FaaStatic/GithubApp"><img src="https://img.shields.io/badge/Github_Apps-Mobile_Kotlin-7F52FF?style=for-the-badge&logo=android&logoColor=white"/></a>
       </td>
     </tr>
     <tr>
