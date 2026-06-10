@@ -203,7 +203,7 @@ class Developer {
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center">
         <a href="https://github.com/FaaStatic/kmp_todo_app"><img src="https://img.shields.io/badge/KMP_TODO_App-Kotlin_Multiplatform_%2B_KTOR-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
       </td>
         <td align="center">
