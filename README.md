@@ -4,7 +4,7 @@
 
 ### Mobile Engineer • Jakarta, Indonesia 🇮🇩
 
-Four years building offline-first mobile apps in production.
+Building offline-first mobile apps in production since 2022.
 React Native at scale, Flutter, native Kotlin. Go backends when the API needs to exist first.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFE81A?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/suhaili-faruq-8475a0189/)
@@ -93,7 +93,6 @@ class Developer {
   final String name = "Suhaili Faruq";
   final String role = "Mobile Engineer";
   final int since = 2022;
-  final int yearsInProduction = 4;
 
   final List<String> currentlyBuilding = [
     "Offline-first field inspection app @ United Tractors",
