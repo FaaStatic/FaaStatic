@@ -126,13 +126,13 @@ class Developer {
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" />
-    <img alt="GitHub Stats" src="./profile/stats.svg" width="100%" height="160"/>
+    <img alt="GitHub Stats" src="./profile/stats.svg" height="160"/>
   </picture>
   &nbsp;&nbsp;
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" />
-    <img alt="Top Languages" src="./profile/top-langs.svg" width="100%" height="160"/>
+    <img alt="Top Languages" src="./profile/top-langs.svg" height="160"/>
   </picture>
 </div>
 
@@ -229,7 +229,6 @@ class Developer {
 ```yaml
 Mobile:
   - Flutter
-  - Flutter Web
   - React Native/Expo
   - Native Android Kotlin
 
@@ -245,7 +244,6 @@ Application Archtecture & State Management:
 
 Backend_Protocol:
   - Go Fiber
-  - Kotlin Ktor
   - PostgreSQL
   - Redis
   - REST API
