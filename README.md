@@ -123,9 +123,17 @@ class Developer {
 # 📊 DATA.ANALYTICS
 
 <div align="center">
-<img height="160" src="./profile/stats.svg" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="160" src="./profile/top-langs.svg" alt="Top Languages"/>
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" />
+    <img alt="GitHub Stats" src="./profile/stats.svg" width="100%" height="160"/>
+  </picture>
+  &nbsp;&nbsp;
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" />
+    <img alt="Top Languages" src="./profile/top-langs.svg" width="100%" height="160"/>
+  </picture>
 </div>
 
 <div align="center">
