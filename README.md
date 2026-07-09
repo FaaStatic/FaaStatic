@@ -173,6 +173,11 @@ Backend:
 
 ---
 
+# 📊 DATA.ANALYTICS
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=FaaStatic&theme=transparent&hide_border=true&ring=FFE81A&fire=FF003C&currStreakLabel=FFE81A&sideNums=FFFFFF&currStreakNum=FFE81A&dates=AAAAAA"/>
+</div>
+
 # JACK.IN
 
 <div align="center">
@@ -186,6 +191,17 @@ Backend:
 <a href="https://portfolioweb-55f91.web.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logo=firefoxbrowser&logoColor=black"/>
 </a>
+
+
+# 🐍 NETRUNNER.TRACE
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
+    <img alt="Contribution snake" src="./profile/snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
 
 <br/><br/>
 
