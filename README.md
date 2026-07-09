@@ -14,7 +14,7 @@
 
 ---
 
-# ABOUT_ME.dart
+# 🧬 ABOUT_ME.dart
 
 ```dart
 class Developer {
@@ -66,7 +66,7 @@ arguing with backend engineers about pagination.
 
 ---
 
-# SHIPPED.APPS
+# 📱 SHIPPED.APPS
 
 Seven apps published to the Play Store and App Store, plus the enterprise app I build today.
 Ordered by recency, not by stack.
@@ -86,9 +86,9 @@ Ordered by recency, not by stack.
 
 ---
 
-# MOBILE.EXE
+# ⚡ MOBILE.EXE
 
-### Flutter
+### 🐦 Flutter
 
 <sub>4 published apps, 2022 to 2024</sub>
 
@@ -106,7 +106,7 @@ NMSxPro ships an on-device SSH client so field technicians can run commands agai
 equipment straight from the phone. Riverpod 2 and Clean Architecture on ForYou and
 MyKekancan, BLoC on NMSxPro.
 
-### Kotlin
+### 🤖 Kotlin
 
 <sub>Native Android since 2021, plus Kotlin Multiplatform</sub>
 
@@ -125,7 +125,7 @@ authenticity checker from a paper I co-authored. KMP Todo shares domain models b
 Android and iOS Compose client and a Ktor backend, so the whole thing is one language end
 to end.
 
-### React Native
+### ⚛️ React Native
 
 <sub>2 published apps, plus the enterprise app I build today</sub>
 
@@ -146,7 +146,7 @@ backend OpenAPI spec with Kubb, so there is no hand-written client code and no s
 Conditional validation across 100+ fields in multi-tab checksheets. Around 100 unit and UI
 tests with Jest and RNTL.
 
-### Offline-first
+### 📴 Offline-first
 
 The part I would actually put on a business card. Realm on COIP, Room plus WorkManager on
 Naratik, SQLite elsewhere. Jobs get created with no signal, photo evidence queues up, and
@@ -155,7 +155,7 @@ between, which sounds obvious until you have shipped it.
 
 ---
 
-# BACKEND.PROTOCOL
+# ⚙️ BACKEND.PROTOCOL
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=go,kotlin,postgres,redis,docker,firebase"/>
@@ -185,7 +185,7 @@ is shaped that way.
 
 ---
 
-# PUBLICATION
+# 🔬 PUBLICATION
 
 **Classification of Batik Authenticity Using Convolutional Neural Network Algorithm with Transfer Learning Method**
 2021 Sixth International Conference on Informatics and Computing (ICIC), IEEE, Nov 2021, pp. 1 to 6.
@@ -195,7 +195,7 @@ The model from this paper became the authenticity checker inside the Naratik And
 
 ---
 
-# CURRENT.FOCUS
+# 🧠 CURRENT.FOCUS
 
 ```yaml
 Mobile:
@@ -217,7 +217,7 @@ Backend:
 ---
 
 <details>
-<summary><b>ARCHIVE</b> (older and smaller work)</summary>
+<summary><b>🗄️ ARCHIVE</b> (older and smaller work)</summary>
 
 <br/>
 
@@ -233,7 +233,7 @@ Backend:
 
 ---
 
-# DATA.ANALYTICS
+# 📊 DATA.ANALYTICS
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=FaaStatic&theme=transparent&hide_border=true&ring=FFE81A&fire=FF003C&currStreakLabel=FFE81A&sideNums=FFFFFF&currStreakNum=FFE81A&dates=AAAAAA"/>
@@ -241,7 +241,7 @@ Backend:
 
 ---
 
-# NETRUNNER.TRACE
+# 🐍 NETRUNNER.TRACE
 
 <div align="center">
   <picture>
@@ -253,7 +253,7 @@ Backend:
 
 ---
 
-# JACK.IN
+# 📡 JACK.IN
 
 <div align="center">
 
