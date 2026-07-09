@@ -121,13 +121,6 @@ class Developer {
 ---
 
 # 📊 DATA.ANALYTICS
-
-<div align="center">
- <img alt="GitHub Stats" src="./profile/stats.svg" height="160"/>
-  &nbsp;&nbsp;
-  <img alt="Top Languages" src="./profile/top-langs.svg" height="160"/>
-</div>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=FaaStatic&theme=transparent&hide_border=true&ring=FFE81A&fire=FF003C&currStreakLabel=FFE81A&sideNums=FFFFFF&currStreakNum=FFE81A&dates=AAAAAA"/>
 </div>
