@@ -169,7 +169,7 @@ between, which sounds obvious until you have shipped it.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Shop POS Backend**](https://github.com/FaaStatic/Shop_project_be) | POS API: products, transactions, debt tracking, Excel and PDF report export. Deployed to a Linux VPS with Docker Compose and Nginx. | Go Fiber v3, GORM, PostgreSQL, Redis, Cobra CLI migrations |
+| [**Shop POS Backend**](https://github.com/FaaStatic/POS_System_Project_BE) | POS API: products, transactions, debt tracking, Excel and PDF report export. Deployed to a Linux VPS with Docker Compose and Nginx. | Go Fiber v3, GORM, PostgreSQL, Redis, Cobra CLI migrations |
 | [**KMP Todo**](https://github.com/FaaStatic/kmp_todo_app) | Full-stack Kotlin. Compose Multiplatform client sharing domain models with a Ktor backend. JWT with refresh tokens, BCrypt, Swagger. | Kotlin Multiplatform, Ktor, Exposed, PostgreSQL |
 | [**Local CDN**](https://github.com/FaaStatic/local_cdn_go) | Small self-hosted static asset server. | Go |
 | [**LMS Inkaedu**](https://github.com/FaaStatic/web-lms-inkaedu-source) | Learning platform for AMDAL certification training. I deployed both frontend and backend to production; 100 active users at launch. | React 18, Redux Toolkit |
