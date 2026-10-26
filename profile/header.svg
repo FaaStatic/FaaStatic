@@ -33,18 +33,16 @@
   <text x="62" y="222" class="t" font-size="26" font-weight="700" letter-spacing="6" fill="#00F0FF">MOBILE FULL-STACK ENGINEER</text>
   <text x="62" y="254" class="m" font-size="18" fill="#C9C2D6">FLUTTER  ·  KOTLIN  ·  REACT NATIVE  ·  GO</text>
 
-  <rect x="880" y="84" width="264" height="152" fill="#0E0716" stroke="#FCEE0A" stroke-opacity=".45"/>
+  <rect x="880" y="84" width="264" height="126" fill="#0E0716" stroke="#FCEE0A" stroke-opacity=".45"/>
   <text x="896" y="108" class="m" font-size="14" fill="#FCEE0A">OVERVIEW</text>
   <line x1="896" y1="118" x2="1128" y2="118" stroke="#FCEE0A" stroke-opacity=".3"/>
   <g class="m" font-size="16">
-    <text x="896" y="144" fill="#8A8399">COMPANY</text>
-    <text x="1128" y="144" fill="#00F0FF" text-anchor="end">REDDOG</text>
-    <text x="896" y="170" fill="#8A8399">LOCATION</text>
-    <text x="1128" y="170" fill="#FCEE0A" text-anchor="end">JAKARTA, ID</text>
-    <text x="896" y="196" fill="#8A8399">PUBLISHED</text>
-    <text x="1128" y="196" fill="#FCEE0A" text-anchor="end">7 APPS</text>
-    <text x="896" y="222" fill="#8A8399">FOCUS</text>
-    <text x="1128" y="222" fill="#FCEE0A" text-anchor="end">OFFLINE-FIRST</text>
+    <text x="896" y="144" fill="#8A8399">LOCATION</text>
+    <text x="1128" y="144" fill="#FCEE0A" text-anchor="end">JAKARTA, ID</text>
+    <text x="896" y="170" fill="#8A8399">PUBLISHED</text>
+    <text x="1128" y="170" fill="#FCEE0A" text-anchor="end">7 APPS</text>
+    <text x="896" y="196" fill="#8A8399">FOCUS</text>
+    <text x="1128" y="196" fill="#FCEE0A" text-anchor="end">OFFLINE-FIRST</text>
   </g>
 
   <line x1="60" y1="282" x2="1140" y2="282" stroke="#FCEE0A" stroke-opacity=".25"/>
