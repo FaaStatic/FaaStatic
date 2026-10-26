@@ -19,9 +19,9 @@
 ```dart
 class Developer {
   final String name = "Suhaili Faruq";
-  final String role = "Mobile Engineer @ Reddog";
+  final String role = "Mobile FullStack Engineer";
   final String location = "Jakarta, Indonesia";
-  final int yearsOfExperience = 4;
+  final int yearsOfExperience = 4+;
 
   // All three stacks have apps in production.
   final List<String> mobile = [
