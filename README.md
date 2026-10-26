@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="./profile/header.svg" alt="Suhaili Faruq, offline-first mobile engineer. Flutter, Kotlin, React Native, Go."/>
+<img width="100%" src="./profile/header.svg" alt="Suhaili Faruq, mobile full-stack engineer. Flutter, Kotlin, React Native, Go."/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&pause=1200&color=FCEE0A&center=true&vCenter=true&width=1000&height=100&lines=Offline-First+Mobile+Engineer;Flutter+%7C+Kotlin+%7C+React+Native+%7C+Go;7+Apps+Published+on+Play+Store+and+App+Store;Mobile+Engineer+at+Reddog;AI-Assisted+Development+with+Claude+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&pause=1200&color=FCEE0A&center=true&vCenter=true&width=1000&height=100&lines=Mobile+Full-Stack+Engineer;Offline-First+Mobile+Apps;Flutter+%7C+Kotlin+%7C+React+Native+%7C+Go;7+Apps+Published+on+Play+Store+and+App+Store;Mobile+Engineer+at+Reddog;AI-Assisted+Development+with+Claude+Code)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,9 +19,9 @@
 ```dart
 class Developer {
   final String name = "Suhaili Faruq";
-  final String role = "Mobile FullStack Engineer";
+  final String role = "Mobile Full-Stack Engineer";
   final String location = "Jakarta, Indonesia";
-  final int yearsOfExperience = 4+;
+  final String yearsOfExperience = "4+";
 
   // All three stacks have apps in production.
   final List<String> mobile = [
